@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-GlowPoint Price Bot v2 — поиск по названию
-Формула: цена_юань × (курс_ЦБ + 0.5) + 2000 ₽
+GlowPoint Price Bot v2
+Formula: price_yuan x (cbr_rate + 0.5) + 2000
 """
 
 import asyncio
